@@ -1,0 +1,24 @@
+﻿#,변수,수준(level),설명,한글 설명
+1,id,categorical,ID number,식별번호
+2,child_driv,numeric,No of driving children,운전가능자녀수
+3,age,numeric,Age,나이
+4,children,numeric,Number of children,자녀수
+5,yoj,numeric,Years on Job,재직년수
+6,income,numeric,Income,수입금액
+7,house_val,numeric,Housing value,주택가격
+8,status,categorical,Marital Status,결혼상태
+9,gender,categorical,Gender of driver,운전자성별
+10,edu_level,categorical,Highest Education,교육수준
+11,job,categorical,Occupation of driver,운전자직업
+12,distance,numeric,Work distance,직장거리
+13,car_use,categorical,Car use (y/n),차량이용여부
+14,vehicle_val,numeric,Vehicle value,차량가격
+15,vehicle_type,categorical,Type of Car,차량유형
+16,clm_freq,numeric,No of claims (10yrs),10년내보험청구건수
+17,revoked,categorical,License revoked (10yrs),10년면허취소건수
+18,mvr_pts,numeric,Motor Vehicle Record points,운전자운전이력점수
+19,claim_amount,numeric,Claim amount,보험청구금액
+20,vehicle_age,numeric,Age of Vehicle,차량연식
+21,claim_ind,categorical,Claim flag,보험청구여부
+22,area,categorical,Home/Work area,지역
+23,state_code,categorical,State code,주코드
