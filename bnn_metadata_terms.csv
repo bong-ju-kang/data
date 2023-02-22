@@ -1,0 +1,515 @@
+ko,en
+고객번호,customer number
+고객한글명,customer korean name
+고객영문명,customer english name
+고객약어명,customer abbreviation name
+고객검색명,customer search name
+영업그룹코드,saels group code
+고객국가코드,customer nation code
+고객주소,customer address
+고객상세주소,customer details address
+고객우편번호,customer postal code
+고객전화번호,customer phone number
+고객팩스번호,customer fax number
+고객대표자명,customer representative name
+영업담당자명,saels representative name
+고객시장업종코드,customer market business type code
+생성일시,creation date time
+생성자명,creator name
+고객기업규모코드,customer company scale code
+고객유형코드,customer type code
+주요고객여부,main customer flag
+고객중요도코드,customer importance code
+고객종업원수,customer empolyee count
+제품시장상위명,product market upper name
+제품시장하위명,product market lower name
+고객연매출금액코드,customer annual sales amount code
+고객도산폐업여부,customer bankruptcy flag
+전략물자확인여부,strategy mateials confirmation flag
+전략물자확인내용,strategy mateials confirmation content
+고객성향코드,customer preference code
+고객납품상위거래처1이름,customer delivery high-ranking account 1 name
+고객납품상위거래처2이름,customer delivery high-ranking account 2 name
+고객납품상위거래처3이름,customer delivery high-ranking account 3 name
+담당대리점1이름,charge agency 1 name
+담당대리점2이름,charge agency 2 name
+SFDC연동고객번호,sfdc linked customer number
+SFDC고객체크디지트번호,sfdc customer check digit number
+고객홈페이지주소,customer homepage address
+어플리케이션1내용,application 1 content
+어플리케이션2내용,application 2 content
+고객연매출금액메모,customer annual sales amount memo
+고객연매출금액점수,customer annual sales amount score
+고객자산증가율메모,customer asset increase rate memo
+고객자산증가율점수,customer asset increase rate score
+고객투자력금액메모,customer investment power amount memo
+고객투자력점수,customer investment power score
+고객생산직인원수메모,customer manufacturing job person count memo
+고객생산직인원수점수,customer manufacturing job person count score
+고객1회차합계점수,customer round 1 total score
+고객자동화도입의지점수,customer automation introduction activeness willingness score
+고객보전팀보유점수,customer preservation team possession score
+고객시장전략점수,customer market strategy score
+고객스마트팩토리도입의지점수,customer smart factory introduction activeness willingness score
+고객소프트웨어팀보유점수,customer software team possession score
+고객2회차합계점수,customer round 2 total score
+최종수정일시,final modification date time
+SBU그룹코드,strategic business unit group code
+적재일시,load date time
+최종고객구분코드,final customer classification code
+야스카와관계사코드,yaskawa related company code
+회계입금조건코드,accounting deposit condition code
+고객계산서메일주소,customer invoice mail address
+고객사업자등록번호,customer business representative registration  number
+고객사업자등록업태명,customer business representative registration  business status name
+고객사업자등록종목명,customer business representative registration  item name
+최종고객지역코드,final customer region code
+우편번호,postal code
+고객직위명,customer position name
+중앙오더분류메모,center order classification memo
+생성자식별번호,creator identification number
+중앙대금청구보류메모,center charge billing hold memo
+공급업체코드,supplier code
+중앙납품보류메모,center delivery hold memo
+중앙영역내고객삭제여부,center within realm customer deletion flag
+구역메모,area memo
+행정구역(군)코드메모,public administration area (gun) code memo
+행정구역(시)코드메모,public administration area (si) code memo
+중앙전기보류메모,center prior (period) hold memo
+언어키메모,language key memo
+운송지역메모,transportation region memo
+속성1메모,attribute 1 memo
+속성2메모,attribute 2 memo
+고객종사업장번호,customer minor workplace number
+중앙삭제보류메모,center deletion hold memo
+회사코드,company code
+최종고객여부,final customer flag
+회사코드고객삭제여부,company code customer deletion flag
+지급방법메모,payment method memo
+이름메모,name memo
+고객계산서담당자명,customer invoice representative name
+부서메모,department memo
+전화번호1메모,phone number 1 memo
+판매조직코드,sales organization code
+고객유통경로코드,customer distribution route code
+제품군코드,product group code
+영업영역고객삭제여부,saels area customer deletion flag
+고객영업주문보류여부,customer saels order hold flag
+고객가격결정코드,customer price decision code
+고객그룹메모,customer group memo
+고객판매구역코드,customer sales area code
+가격리스트메모,price list memo
+고객주문확률백분위수,customer order probability percentile
+인도조건1메모,delivery condition 1 memo
+인도조건파트2메모,delivery condition part 2 memo
+고객납품보류여부,customer delivery hold flag
+납품순위코드,delivery ranking code
+출하조건코드,shipment condition code
+고객영업영역대금청구보류여부,customer saels area charge billing hold flag
+통화구분코드,currency classification code
+출하플랜트코드,shipment plant code
+사업장코드,business place code
+고객그룹1메모,customer group 1 memo
+고객그룹2메모,customer group 2 memo
+영업영역영업보류메모,saels area saels hold memo
+갱신일자전항목메모,previous to renewal date item memo
+갱신일자보류설정메모,renewal date hold set memo
+수주고객번호,order receipt customer number
+수주고객명,order receipt customer name
+계산서역발행여부,invoice reverse issuance flag
+고객은행국가코드메모,customer bank nation code memo
+고객은행키코드메모,customer bank key code memo
+고객은행계정번호메모,customer bank account number memo
+고객은행계정보유자명메모,customer bank account holder name memo
+회계채권계정코드,account receivable account code
+영업지급조건코드,saels payment condition code
+매출구분코드,sales classification code
+과세구분코드,taxation classification code
+청구고객번호,billing customer number
+지급고객번호,payment customer number
+납품고객번호,delivery customer number
+고객영업사원번호,customer salesman number
+청구고객명,billing customer name
+지급고객명,payment customer name
+납품고객명,delivery customer name
+대리점번호,agency number
+대리점명,agency name
+상세주소4메모,details address 4 memo
+미사용1메모,unuse 1 memo
+미사용2메모,unuse 2 memo
+미사용3메모,unuse 3 memo
+미사용4메모,unuse 4 memo
+미사용5메모,unuse 5 memo
+미사용6메모,unuse 6 memo
+미사용7메모,unuse 7 memo
+미사용8메모,unuse 8 memo
+미사용9메모,unuse 9 memo
+미사용10메모,unuse 10 memo
+미사용11메모,unuse 11 memo
+고객연락담당자메일주소,customer contact representative mail address
+미사용12메모,unuse 12 memo
+미사용13메모,unuse 13 memo
+권한그룹코드,authority group code
+유통체인상태코드,distribution chain status code
+플랜트간제품상태코드,plant to plant product status code
+특정유통체인상태코드,specific distribution chain status code
+효력시작일자,effectiveness start date
+플랜트고유제품상태코드,plant unique product status code
+제품평가클래스코드,product evaluation class code
+외부제품그룹코드,external product group code
+일반품목범주그룹코드,general item category group code
+제품그룹코드,product group code
+제품번호,product number
+제품명,product name
+이동평균단가금액,moving average unit price amount
+기본단위코드,default unit code
+중량단위코드,weight unit code
+로봇본체여부,robot main body flag
+플랜트코드,plant code
+제품그룹2코드,product group 2 code
+제품그룹3코드,product group 3 code
+제품그룹4코드,product group 4 code
+자동PO여부,automatic po flag
+검사재고전기대상여부,inspection inventory posting target flag
+손익센터코드,profit loss center code
+일련번호프로파일코드,serial number profile code
+구매그룹코드,purchase group code
+ABC지시자코드,abc indicator code
+제품계층구조코드,product class structure code
+납품플랜트코드,delivery plant code
+제품가격결정그룹코드,product price decision group code
+가용성점검코드,availability inspection code
+MRP유형코드,mrp type code
+조달유형코드,procurement type code
+제품범주그룹코드,product category group code
+유통경로코드,distribution route code
+세금분류코드,tax classification code
+제품상세분류코드,product details classification code
+입고소요일수,storing required daily count
+MRP관리코드,mrp management code
+생산저장위치코드,production save location code
+EP저장위치코드,ep save location code
+CC재고실사지시자코드,cc inventory due diligence indicator code
+계획납품소요일수,plan delivery required daily count
+안전재고수량,safety inventory quantity
+역방향소비일수,backward consumption daily count
+가격단위수량,price unit quantity
+가격관리코드,price management code
+원가차이키코드,cost difference key code
+원가계산로트크기수량,cost calculation lot size quantity
+제품통화구분코드,product currency classification code
+최종변경일자,final change date
+발주재주문기준시점수량,purchase order reorder base time quantity
+반올림수량,rounding quantity
+로트크기단위코드,lot size unit code
+최대재고레벨코드,maximum inventory level code
+총보충리드타임일수,total replenishment lead time daily count
+제품분류2메모,product classification 2 memo
+저장조건코드,save condition code
+제품통계그룹코드,product statistics group code
+일정마진키코드,schedule margin key code
+오더단위코드,order unit code
+양적구조포함원가추정여부,quantitative structure inclusion cost estimation flag
+안전시간지시자구분코드,safety time indicator classification code
+소비모드코드,consumption mode code
+서비스레벨비율,service level ratio
+기간지시자코드,period indicator code
+계획전략그룹코드,plan strategy group code
+개별일괄메모,individual batch memo
+생산일정프로파일메모,production schedule profile memo
+계획타임펜스메모,plan time fence memo
+MRP영역여부,mrp area flag
+최소로트크기코드,minimum lot size code
+최대로트크기코드,maximum lot size code
+내부생산일수,internal production daily count
+공급가능일수프로파일코드,supply possible daily count profile code
+순방향소비일수,forward consumption daily count
+생성일자,creation date
+기타제품명,others product name
+SFDC연동제품코드,sfdc linked product code
+SFDC제품활성여부,sfdc product activation flag
+SFDC제품설명,sfdc product description
+SFDC제품판매표준금액,sfdc product sales standard amount
+SFDC제품기준금액,sfdc product base amount
+SFDC제품식별번호,sfdc product identification number
+SFDC제품분류1메모,sfdc product classification 1 memo
+SFDC제품분류2메모,sfdc product classification 2 memo
+SFDC제품분류3메모,sfdc product classification 3 memo
+SFDC제품분류4메모,sfdc product classification 4 memo
+SFDC제품분류5메모,sfdc product classification 5 memo
+SFDC제품분류6메모,sfdc product classification 6 memo
+SFDC제품분류7메모,sfdc product classification 7 memo
+SFDC제품분류8메모,sfdc product classification 8 memo
+SFDC표준EP값,sfdc standard ep value
+SFDCHD정격전류량,sfdc HD rated current quantity
+SFDC제품FOB금액,sfdc product fob amount
+SFDC표준금액기준이익률,sfdc standard amount base profit rate
+SFDC생성자명,sfdc creator name
+SFDC최종수정자명,sfdc final modifier name
+제품판매단위코드,product sales unit code
+SFDC가격결정단위코드,sfdc price decision unit code
+제품판매표준금액,product sales standard amount
+SFDC제품식별번호2,sfdc product identification number 2
+판매표준금액통화구분코드,sales standard amount currency classification code
+표준가격등록여부,standard price registration  flag
+판매표준금액적용종료일자,sales standard amount applied end date
+영업기회명,saels opportunity name
+기회담당자명,opportunity representative name
+기회담당자직책명,opportunity representative duty name
+동기화견적서번호,synchronization estimate sheet number
+기회활동유형코드,opportunity activity type code
+부서코드,department code
+기회제품시장상위명,opportunity product market upper name
+기회제품시장하위명,opportunity product market lower name
+기회어플리케이션내용,opportunity application content
+영업기회진행단계코드,saels opportunity progress stage code
+성공확률,success probability
+마감일자,due date
+관련캠페인명,related campaign name
+영업기회목표명,saels opportunity goal name
+기회예산금액,opportunity budget amount
+기회예산반영일자,opportunity budget reflection date
+기회제품매출총금액,opportunity product sales total amount
+기회예상매출금액,opportunity expectation sales amount
+기회작성경과일수,opportunity creation elapse daily count
+기회다음진행단계코드,opportunity next progress stage code
+고객인지출처코드,customer recognition origin code
+기회레코드유형코드,opportunity record type code
+연간예상장비대수,annual expectation equipment count
+연간예상매출금액,annual expectation sales amount
+기회제품총이익률,opportunity product total profit rate
+영업기회작성일자,saels opportunity creation date
+활성여부,activation flag
+견적대상고객명,estimate target customer name
+로봇연간예상매출금액,robot annual expectation sales amount
+기회단계로봇연간예상매출금액,opportunity stage robot annual expectation sales amount
+기회활동목적내용,opportunity activity purpose content
+기회활동상세내용,opportunity activity details content
+기회견적승인상태코드,opportunity estimate approval status code
+담당자검토내용,representative review content
+파트장검토내용,part head review content
+팀장검토내용,team head review content
+부서장검토내용,department head review content
+영업기회작성자명,saels opportunity creator name
+기회최종수정자명,opportunity final modifier name
+기회최종수정일자,opportunity final modification date
+기회최종수정자별칭명,opportunity final modifier alias name
+기회제품등록여부,opportunity product registration  flag
+기회견적번호,opportunity estimate number
+기회견적작성일자,opportunity estimate creation date
+영업기회식별번호,saels opportunity identification number
+기회생성자명,opportunity creator name
+영업기회제품총수량,saels opportunity product total quantity
+기회단계마감여부,opportunity stage closing flag
+기회수주성공여부,opportunity order receipt success flag
+마감일자2,due date 2
+기회마감완료일자,opportunity closing completion date
+기회단계최근변경일자,opportunity stage recent change date
+기회마감년월회계분기코드,opportunity closing year and month accounting quarter code
+기회마감일자회계연도,opportunity due date financial year
+기회단계경과일수,opportunity stage elapse daily count
+기회예측범주명,opportunity prediction category name
+기회최종활동일자,opportunity final activity date
+푸시건수,push count
+기본파트너명,default partner name
+기회제품식별번호,opportunity product identification number
+제품코드,product code
+제품수량,product quantity
+제품견적단가금액,product estimate unit price amount
+제품견적복가금액,product estimate complex price amount
+제품이익률,product profit rate
+제품견적EP값,product estimate ep value
+판매표준가대비할인율,sales standard price compared discount rate
+판매표준가단가금액,sales standard price unit price amount
+제품FOB가격목록명,product fob price list name
+제품가격규칙코드,product price rule code
+견적단가계산기준코드,estimate unit price calculation base code
+견적단가설정금액,estimate unit price set amount
+견적단가반올림구분코드,estimate unit price rounding classification code
+제품원가구분코드,product cost classification code
+제품FOB직접입력금액,product fob direct input amount
+제품견적단가외화여부,product estimate unit price foreign currency flag
+제품견적외화단가금액,product estimate foreign currency unit price amount
+제품최종전견적단가금액,product before final estimate unit price amount
+제품FOB뷰금액,product fob view amount
+제품FOB가격통화코드,product fob price currency code
+제품FOB가격환율,product fob price exchange rate
+제품통화별FOB금액,product by currency fob amount
+제품FOB원화환산금액,product fob won conversion amount
+제품원가복가금액,product cost complex price amount
+제품원가단가금액,product cost unit price amount
+제품FOB금액,product fob amount
+기회제품상세설명,opportunity product details description
+기회제품생성일자,opportunity product creation date
+기회제품작성자명,opportunity product creator name
+기회제품작성자별칭명,opportunity product creator alias name
+기회제품최종수정일자,opportunity product final modification date
+기회제품최종수정자명,opportunity product final modifier name
+기회제품최종수정자별칭명,opportunity product final modifier alias name
+견적식별번호,estimate identification number
+견적서번호,estimate sheet number
+견적결재상태코드,estimate approval status code
+기회명,opportunity name
+기회단계코드,opportunity stage code
+견적소유자명,estimate owner name
+견적기회동기화여부,estimate opportunity synchronization flag
+견적만료일자,estimate expiration date
+견적할인율,estimate discount rate
+견적제품소계금액,estimate product subtotal amount
+견적제품합계금액,estimate product total amount
+견적식별번호2,estimate identification number 2
+견적소유자별칭명,estimate owner alias name
+견적소유자이메일주소,estimate owner email address
+견적세금금액,estimate tax amount
+견적제품합계2금액,estimate product total 2 amount
+견적추가수신자명,estimate addition recipient name
+고객직원명,customer staff name
+견적상세설명,estimate details description
+견적제품건수,estimate product count
+고객이메일주소,customer email address
+견적작성자명,estimate creator name
+견적작성자별칭명,estimate creator alias name
+견적작성일자,estimate creation date
+견적작성자팩스번호,estimate creator fax number
+견적최종수정자명,estimate final modifier name
+견적최종수정자별칭명,estimate final modifier alias name
+견적배송처리예상금액,estimate delivery processing expectation amount
+견적최종수정일자,estimate final modification date
+고객시도명,customer si/do name
+고객시군구명,customer si/gun/gu name
+고객주소줄1내용,customer address line 1 content
+고객주소줄2내용,customer address line 2 content
+고객주소줄3내용,customer address line 3 content
+고객명,customer name
+고객배송국가코드,customer delivery nation code
+고객배송우편번호,customer delivery postal code
+고객배송시도명,customer delivery si/do name
+고객배송도시명,customer delivery city name
+고객배송상세주소,customer delivery details address
+고객배송주소줄1내용,customer delivery address line 1 content
+고객배송주소줄2내용,customer delivery address line 2 content
+고객배송주소줄3내용,customer delivery address line 3 content
+고객배송수신자명,customer delivery recipient name
+견적제품작성자명,estimate product creator name
+견적제품작성자별칭명,estimate product creator alias name
+견적제품생성일자,estimate product creation date
+견적제품최종수정자명,estimate product final modifier name
+견적제품최종수정자별칭명,estimate product final modifier alias name
+견적제품최종수정일자,estimate product final modification date
+견적제품설명,estimate product description
+견적제품할인율,estimate product discount rate
+견적제품수량,estimate product quantity
+견적제품식별번호,estimate product identification number
+견적상세식별번호,estimate details identification number
+견적단가금액,estimate unit price amount
+견적제품총금액,estimate product total amount
+제품FOB가격선택코드,product fob price selection code
+제품본선인도원화환산금액,product FOB won conversion amount
+견적제품단가수준비율,estimate product unit price level ratio
+견적고객요구단가금액,estimate customer request unit price amount
+견적고객요구수준비율,estimate customer request level ratio
+견적EP값,estimate ep value
+견적제품단가2금액,estimate product unit price 2 amount
+견적제품외화단가금액,estimate product foreign currency unit price amount
+견적제품단가외화여부,estimate product unit price foreign currency flag
+견적제품단가외화환율,estimate product unit price foreign currency exchange rate
+견적제품최종전단가금액,estimate product before final unit price amount
+견적제품단가설정금액,estimate product unit price set amount
+견적제품단가반올림구분코드,estimate product unit price rounding classification code
+고객견적제품예상금액,customer estimate product expectation amount
+견적제품일련번호,estimate product serial number
+견적제품원가단가금액,estimate product cost unit price amount
+견적제품직접입력FOB금액,estimate product direct input fob amount
+견적제품원가복가금액,estimate product cost complex price amount
+견적제품원가선택코드,estimate product cost selection code
+견적제품이익률,estimate product profit rate
+견적제품가격규칙코드,estimate product price rule code
+제품설명,product description
+견적제품단가책정코드,estimate product unit price appropriation code
+제품판매표준단가금액,product sales standard unit price amount
+제품판매표준복가금액,product sales standard complex price amount
+제품판매표준금액유무,product sales standard amount existence or nonexistence
+제품판매표준가할인율,product sales standard price discount rate
+조직영업그룹코드,organization saels group code
+수주매출구분코드,order receipt sales classification code
+수주복가금액,order receipt complex price amount
+수주통화구분코드,order receipt currency classification code
+수주일자,order receipt date
+수주환율,order receipt exchange rate
+회계매출환율,accounting sales exchange rate
+수주전표유형코드,order receipt slip type code
+수주번호,order receipt number
+수주품목번호,order receipt item number
+회계과세구분코드,accounting taxation classification code
+수주품목범주코드,order receipt item category code
+수주로봇용도구분코드,order receipt robot use classification code
+고객자재명,customer material name
+수주PMS관리번호,order receipt pms management number
+수주거부사유코드,order receipt rejection reason code
+수주주문수량,order receipt order quantity
+수주단위코드,order receipt unit code
+제품로봇본체여부,product robot main body flag
+수주품목환율,order receipt item exchange rate
+제품표준금액,product standard amount
+수주조직코드,order receipt organization code
+수주참조견적전표번호,order receipt reference estimate slip number
+최종고객임의지역코드,final customer random region code
+수주전표증빙일자,order receipt slip evidence date
+제품그룹5코드,product group 5 code
+제품그룹1코드,product group 1 code
+제품수출인도조건코드,product export delivery condition code
+제품수출인도조건내용,product export delivery condition content
+수주유통경로코드,order receipt distribution route code
+수주원가복가금액,order receipt cost complex price amount
+수주원가단가금액,order receipt cost unit price amount
+헤더로봇용도명,header robot use name
+헤더로봇용도구분코드,header robot use classification code
+헤더요구납기일자,header request delivery date
+주문사유명,order reason name
+수주고객판매지역코드,order receipt customer sales region code
+수주고객납품주소,order receipt customer delivery address
+수주계획번호,order receipt plan number
+수주제품손익센터코드,order receipt product profit loss center code
+수주영업담당자번호,order receipt saels representative number
+수주부가세금액,order receipt value added tax amount
+수주정보생성자식별번호,order receipt information creator identification number
+제품명세헤더내용,product specification header content
+수주세금포함복가금액,order receipt tax inclusion complex price amount
+수주세금포함단가금액,order receipt tax inclusion unit price amount
+수주단가금액,order receipt unit price amount
+기존제품번호,existing product number
+수주고객국가코드,order receipt customer nation code
+조직사업장코드,organization business place code
+수주플랜트코드,order receipt plant code
+최종고객국가코드,final customer nation code
+최종고객납품주소,final customer delivery address
+특별관리구분코드,special management classification code
+납품고객납품주소,delivery customer delivery address
+최종고객업종코드,final customer business type code
+최종고객판매구역코드,final customer sales area code
+최종고객그룹1코드,final customer group 1 code
+최종고객그룹2코드,final customer group 2 code
+최종고객그룹3코드,final customer group 3 code
+최종고객그룹4코드,final customer group 4 code
+최종고객그룹5코드,final customer group 5 code
+최종고객그룹6코드,final customer group 6 code
+최종고객번호,final customer number
+수주제품최초요구납기일자,order receipt product first request delivery date
+고객그룹5코드,customer group 5 code
+고객그룹4코드,customer group 4 code
+고객그룹3코드,customer group 3 code
+고객그룹2코드,customer group 2 code
+고객그룹1코드,customer group 1 code
+고객그룹코드,customer group code
+제품속성9코드,product attribute 9 code
+제품속성8코드,product attribute 8 code
+제품속성7코드,product attribute 7 code
+제품속성6코드,product attribute 6 code
+제품속성5코드,product attribute 5 code
+제품속성4코드,product attribute 4 code
+제품속성3코드,product attribute 3 code
+제품속성2코드,product attribute 2 code
+제품속성10코드,product attribute 10 code
+제품속성1코드,product attribute 1 code
+조직작업장코드,organization workplace code
+조직작업장명,organization workplace name
