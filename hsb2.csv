@@ -1,4 +1,4 @@
-id,gender,race,ses,schtyp,prog,read,write,math,science,socst
+id,female,race,ses,schtyp,prog,read,write,math,science,socst
 70,male,white,low,public,general,57,52,41,47,57
 121,female,white,middle,public,vocational,68,59,53,63,61
 86,male,white,high,public,general,44,33,54,58,31
